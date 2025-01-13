@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(191, 255, 0);
+}
+table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10%;
+    margin: 10%;
+    font-size: 40px;
+}
+.sk{border-radius: 3;
+
+}
